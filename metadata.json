@@ -1,0 +1,6 @@
+{
+  "name": "F1 Hub",
+  "description": "Formula 1 race calendar, circuit guides, driver and constructor standings, race results, and available live timing from Jolpica F1 and OpenF1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
